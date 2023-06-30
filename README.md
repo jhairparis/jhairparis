@@ -9,9 +9,23 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhairparis&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhairparis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=jhairparis&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jhairparis&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jhairparis&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true">
+    <img height="150" alt="stats graph" src="https://github-readme-stats.vercel.app/api?username=jhairparis&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=jhairparis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=jhairparis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true">
+    <img height="150" alt="languages graph" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhairparis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jhairparis&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=jhairparis&locale=en&mode=daily&hide_border=true&border_radius=5">
+    <img height="150" alt="streak graph" src="https://streak-stats.demolab.com/?user=jhairparis&locale=en&mode=daily&hide_border=true&border_radius=5">
+  </picture>
 </div>
 
 # 💻 Tech Stack
